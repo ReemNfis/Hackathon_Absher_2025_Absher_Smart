@@ -6,6 +6,9 @@ Imagine if Absher knew your needs before you even looked for them. We're transfo
 ## Absher Intelligence - Smart Government Services Portal
 
 > منصة ذكية لتقديم خدمات أبشر الحكومية السعودية بواسطة الذكاء الاصطناعي
+<img width="1020" height="727" alt="لقطة شاشة 2025-12-12 104431" src="https://github.com/user-attachments/assets/b97fa7f0-e8f2-4d2d-85e6-6a5d2974bd55" />
+<img width="1900" height="838" alt="لقطة شاشة 2025-12-12 120031" src="https://github.com/user-attachments/assets/58af4e18-e761-4b1c-b820-76f481bab28a" />
+
 
 
 ---
