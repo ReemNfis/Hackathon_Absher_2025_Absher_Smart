@@ -7,10 +7,6 @@ Imagine if Absher knew your needs before you even looked for them. We're transfo
 
 > منصة ذكية لتقديم خدمات أبشر الحكومية السعودية بواسطة الذكاء الاصطناعي
 
-[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
 ---
 
